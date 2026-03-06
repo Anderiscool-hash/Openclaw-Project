@@ -7,3 +7,4 @@ set +a
 python3 collect_trends.py
 python3 score_trends.py
 python3 daily_report.py
+python3 enrich_content_plan.py

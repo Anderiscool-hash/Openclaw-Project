@@ -6,6 +6,7 @@ Purpose: track viral sounds/hashtags/products and rank monetization opportunitie
 - `collect_trends.py` → gather candidates into `raw_trends.csv`
 - `score_trends.py` → compute monetization score into `scored_trends.csv`
 - `daily_report.py` → output top list to `report_top_trends.csv` and `.txt`
+- `enrich_content_plan.py` → creator-ready hooks/angles/CTA/hashtags in `top10_creator_pack.*`
 - `run_v1.sh` → one-shot run
 - `run_every_10m.sh` → loop every 10 minutes
 
