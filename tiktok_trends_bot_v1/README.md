@@ -3,7 +3,8 @@
 Purpose: track viral sounds/hashtags/products and rank monetization opportunities.
 
 ## Files
-- `collect_trends.py` → gather candidates into `raw_trends.csv`
+- `collect_trends_searxng.py` → gather candidates via SearXNG into `raw_trends.csv`
+- `collect_trends.py` → fallback public-page collector
 - `score_trends.py` → compute monetization score into `scored_trends.csv`
 - `daily_report.py` → output top list to `report_top_trends.csv` and `.txt`
 - `enrich_content_plan.py` → creator-ready hooks/angles/CTA/hashtags in `top10_creator_pack.*`
