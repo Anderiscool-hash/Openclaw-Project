@@ -1,0 +1,43 @@
+[
+  {
+    "timestamp": "2026-03-08T03:28:11+00:00",
+    "matchup": "Los Angeles Clippers @ Memphis Grizzlies",
+    "leg": {
+      "game_contains": "Los Angeles Clippers @ Memphis Grizzlies",
+      "type": "spread",
+      "team": "Los Angeles Clippers",
+      "line": -6.5
+    },
+    "status": "not_covering",
+    "note": "margin +1 with line -6.5",
+    "score": "Los Angeles Clippers 117 - Memphis Grizzlies 116",
+    "completed": false
+  },
+  {
+    "timestamp": "2026-03-08T03:28:11+00:00",
+    "matchup": "Utah Jazz @ Milwaukee Bucks",
+    "leg": {
+      "game_contains": "Utah Jazz @ Milwaukee Bucks",
+      "type": "spread",
+      "team": "Milwaukee Bucks",
+      "line": -9.5
+    },
+    "status": "covering",
+    "note": "margin +14 with line -9.5",
+    "score": "Utah Jazz 99 - Milwaukee Bucks 113",
+    "completed": true
+  },
+  {
+    "timestamp": "2026-03-08T03:28:11+00:00",
+    "matchup": "Golden State Warriors @ Oklahoma City Thunder",
+    "leg": {
+      "game_contains": "Golden State Warriors @ Oklahoma City Thunder",
+      "type": "total_under",
+      "line": 235.5
+    },
+    "status": "covering",
+    "note": "total 167 vs under 235.5 (buffer +68.5)",
+    "score": "Golden State Warriors 81 - Oklahoma City Thunder 86",
+    "completed": false
+  }
+]
