@@ -1,0 +1,14 @@
+game,strategy,singles,pales,top3_prob_%,top5_prob_%,best_pale_prob_%
+Anguila 10:00 AM,B_top5_singles,65 61 48 83 35,,4.81,7.86,0.31
+Anguila 1:00 PM,B_top5_singles,65 94 39 73 63,,5.35,8.37,0.39
+Anguila 6:00 PM,B_top5_singles,87 85 03 57 78,,4.78,7.92,0.37
+Anguila 9:00 PM,B_top5_singles,76 52 63 50 69,,5.72,8.88,0.29
+Gana Mas,C_top3_plus_1_pale,80 07 25,07-79,8.74,13.75,1.34
+La Primera Dia,A_top3_singles,64 61 14,,5.17,8.03,0.39
+La Primera Noche,B_top5_singles,18 61 17 79 14,,5.42,8.49,0.36
+La Suerte 6PM,B_top5_singles,53 35 66 21 09,,4.99,8.11,0.29
+La Suerte MD,B_top5_singles,18 59 65 07 38,,5.38,8.44,0.34
+Loteria Nacional,C_top3_plus_1_pale,38 13 25,34-80,9.64,14.83,1.4
+Quiniela Leidsa,A_top3_singles,45 22 10,,5.02,8.01,0.28
+Quiniela Loteka,B_top5_singles,99 90 86 03 97,,5.2,8.39,0.33
+Quiniela Real,B_top5_singles,43 64 33 97 65,,4.73,7.78,0.29

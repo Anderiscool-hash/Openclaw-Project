@@ -1,0 +1,261 @@
+game,kind,rank,value,prob,p_first,p_second,p_third
+Quiniela Real,single,1,43,0.01629,0.012037,0.023802,0.01303
+Quiniela Real,single,2,64,0.015629,0.011684,0.014907,0.020296
+Quiniela Real,single,3,33,0.015423,0.015928,0.01922,0.01112
+Quiniela Real,single,4,97,0.01535,0.020859,0.013453,0.011738
+Quiniela Real,single,5,65,0.01514,0.012308,0.023607,0.009505
+Quiniela Real,single,6,57,0.013748,0.014577,0.011506,0.01516
+Quiniela Real,single,7,93,0.013651,0.015132,0.00601,0.019811
+Quiniela Real,single,8,19,0.013225,0.015264,0.009532,0.01488
+Quiniela Real,single,9,86,0.013133,0.011646,0.014713,0.01304
+Quiniela Real,single,10,41,0.013082,0.015329,0.011782,0.012136
+Quiniela Real,pale,1,43-48,0.002907,,,
+Quiniela Real,pale,2,59-65,0.002705,,,
+Quiniela Real,pale,3,46-72,0.002167,,,
+Quiniela Real,pale,4,32-93,0.002094,,,
+Quiniela Real,pale,5,20-33,0.002068,,,
+Quiniela Real,pale,6,57-85,0.002015,,,
+Quiniela Real,pale,7,00-65,0.001972,,,
+Quiniela Real,pale,8,43-86,0.001913,,,
+Quiniela Real,pale,9,00-19,0.001866,,,
+Quiniela Real,pale,10,82-97,0.00178,,,
+Quiniela Loteka,single,1,99,0.018116,0.020303,0.021385,0.01266
+Quiniela Loteka,single,2,90,0.017594,0.018451,0.02636,0.007971
+Quiniela Loteka,single,3,86,0.016244,0.010542,0.014407,0.023784
+Quiniela Loteka,single,4,3,0.016076,0.012788,0.018434,0.017006
+Quiniela Loteka,single,5,97,0.015902,0.010496,0.011561,0.025651
+Quiniela Loteka,single,6,41,0.014698,0.016626,0.012526,0.014943
+Quiniela Loteka,single,7,34,0.014622,0.015055,0.0114,0.017411
+Quiniela Loteka,single,8,68,0.014424,0.012019,0.017773,0.013479
+Quiniela Loteka,single,9,8,0.014189,0.018597,0.008465,0.015504
+Quiniela Loteka,single,10,58,0.014154,0.015025,0.00981,0.017627
+Quiniela Loteka,pale,1,54-86,0.003324,,,
+Quiniela Loteka,pale,2,90-94,0.002948,,,
+Quiniela Loteka,pale,3,30-50,0.00277,,,
+Quiniela Loteka,pale,4,34-97,0.002694,,,
+Quiniela Loteka,pale,5,19-29,0.002423,,,
+Quiniela Loteka,pale,6,04-97,0.002403,,,
+Quiniela Loteka,pale,7,14-20,0.002359,,,
+Quiniela Loteka,pale,8,70-99,0.002349,,,
+Quiniela Loteka,pale,9,06-58,0.002339,,,
+Quiniela Loteka,pale,10,65-86,0.002331,,,
+Quiniela Leidsa,single,1,45,0.018577,0.028509,0.010192,0.017031
+Quiniela Leidsa,single,2,22,0.016153,0.024384,0.016199,0.007876
+Quiniela Leidsa,single,3,10,0.015422,0.013002,0.018959,0.014306
+Quiniela Leidsa,single,4,85,0.014975,0.012428,0.01493,0.017568
+Quiniela Leidsa,single,5,56,0.014935,0.013722,0.012782,0.018301
+Quiniela Leidsa,single,6,42,0.014854,0.005581,0.018443,0.020538
+Quiniela Leidsa,single,7,8,0.013874,0.01386,0.016645,0.011116
+Quiniela Leidsa,single,8,9,0.013694,0.010367,0.021043,0.009672
+Quiniela Leidsa,single,9,30,0.013529,0.010867,0.014692,0.015027
+Quiniela Leidsa,single,10,91,0.013444,0.014664,0.018523,0.007145
+Quiniela Leidsa,pale,1,10-39,0.00279,,,
+Quiniela Leidsa,pale,2,39-41,0.002587,,,
+Quiniela Leidsa,pale,3,05-09,0.002525,,,
+Quiniela Leidsa,pale,4,42-45,0.002492,,,
+Quiniela Leidsa,pale,5,58-70,0.002481,,,
+Quiniela Leidsa,pale,6,57-70,0.002149,,,
+Quiniela Leidsa,pale,7,57-86,0.002101,,,
+Quiniela Leidsa,pale,8,45-88,0.002084,,,
+Quiniela Leidsa,pale,9,15-22,0.002081,,,
+Quiniela Leidsa,pale,10,22-59,0.002081,,,
+Loteria Nacional,single,1,38,0.041695,0.062629,0.040022,0.022433
+Loteria Nacional,single,2,13,0.028257,0.028077,0.045571,0.011122
+Loteria Nacional,single,3,25,0.026415,0.028543,0.011943,0.038759
+Loteria Nacional,single,4,88,0.026382,0.039589,0.0,0.039558
+Loteria Nacional,single,5,68,0.025568,0.0,0.076705,0.0
+Loteria Nacional,single,6,79,0.023296,0.023825,0.022687,0.023376
+Loteria Nacional,single,7,11,0.022555,0.012444,0.0223,0.032922
+Loteria Nacional,single,8,44,0.021509,0.0,0.011276,0.053252
+Loteria Nacional,single,9,80,0.021192,0.01241,0.0,0.051164
+Loteria Nacional,single,10,19,0.020904,0.011031,0.011092,0.04059
+Loteria Nacional,pale,1,34-80,0.014049,,,
+Loteria Nacional,pale,2,27-44,0.013819,,,
+Loteria Nacional,pale,3,71-80,0.013695,,,
+Loteria Nacional,pale,4,34-71,0.009953,,,
+Loteria Nacional,pale,5,20-25,0.009926,,,
+Loteria Nacional,pale,6,20-99,0.009926,,,
+Loteria Nacional,pale,7,25-99,0.009926,,,
+Loteria Nacional,pale,8,27-84,0.009898,,,
+Loteria Nacional,pale,9,44-84,0.009898,,,
+Loteria Nacional,pale,10,40-68,0.009871,,,
+La Suerte MD,single,1,18,0.018997,0.012683,0.025197,0.01911
+La Suerte MD,single,2,59,0.017463,0.024278,0.014222,0.01389
+La Suerte MD,single,3,65,0.017369,0.017895,0.00835,0.025862
+La Suerte MD,single,4,7,0.015608,0.022338,0.010027,0.014459
+La Suerte MD,single,5,38,0.014997,0.010217,0.017181,0.017593
+La Suerte MD,single,6,63,0.014269,0.014355,0.016227,0.012225
+La Suerte MD,single,7,48,0.014216,0.012427,0.021025,0.009194
+La Suerte MD,single,8,67,0.014116,0.004182,0.023847,0.01432
+La Suerte MD,single,9,46,0.013706,0.004244,0.024134,0.01274
+La Suerte MD,single,10,34,0.013589,0.018408,0.00904,0.01332
+La Suerte MD,pale,1,06-11,0.003393,,,
+La Suerte MD,pale,2,33-89,0.003024,,,
+La Suerte MD,pale,3,32-34,0.002866,,,
+La Suerte MD,pale,4,02-05,0.002768,,,
+La Suerte MD,pale,5,03-59,0.002568,,,
+La Suerte MD,pale,6,38-63,0.002552,,,
+La Suerte MD,pale,7,00-22,0.002521,,,
+La Suerte MD,pale,8,63-72,0.002484,,,
+La Suerte MD,pale,9,30-49,0.002468,,,
+La Suerte MD,pale,10,16-74,0.002446,,,
+La Suerte 6PM,single,1,53,0.017649,0.012638,0.01883,0.021478
+La Suerte 6PM,single,2,35,0.016371,0.015981,0.017225,0.015907
+La Suerte 6PM,single,3,66,0.015928,0.010297,0.012114,0.025375
+La Suerte 6PM,single,4,21,0.015586,0.007997,0.020417,0.018343
+La Suerte 6PM,single,5,9,0.015528,0.013657,0.015558,0.017368
+La Suerte 6PM,single,6,63,0.014917,0.011973,0.023026,0.009752
+La Suerte 6PM,single,7,11,0.014871,0.023283,0.007762,0.013568
+La Suerte 6PM,single,8,2,0.014575,0.008963,0.016288,0.018474
+La Suerte 6PM,single,9,7,0.014161,0.019994,0.010208,0.012279
+La Suerte 6PM,single,10,78,0.014018,0.012045,0.012838,0.017171
+La Suerte 6PM,pale,1,11-13,0.002901,,,
+La Suerte 6PM,pale,2,21-64,0.002709,,,
+La Suerte 6PM,pale,3,35-75,0.002346,,,
+La Suerte 6PM,pale,4,50-93,0.002234,,,
+La Suerte 6PM,pale,5,05-43,0.002169,,,
+La Suerte 6PM,pale,6,30-88,0.002136,,,
+La Suerte 6PM,pale,7,35-64,0.002112,,,
+La Suerte 6PM,pale,8,07-11,0.002066,,,
+La Suerte 6PM,pale,9,44-53,0.002054,,,
+La Suerte 6PM,pale,10,61-75,0.002033,,,
+La Primera Noche,single,1,18,0.018999,0.003148,0.019226,0.034624
+La Primera Noche,single,2,61,0.017746,0.011797,0.020119,0.021323
+La Primera Noche,single,3,17,0.017467,0.018245,0.008481,0.025677
+La Primera Noche,single,4,79,0.015546,0.021424,0.008491,0.016725
+La Primera Noche,single,5,14,0.0151,0.012496,0.020793,0.012012
+La Primera Noche,single,6,47,0.014484,0.01396,0.007248,0.022245
+La Primera Noche,single,7,77,0.014459,0.0037,0.016689,0.022987
+La Primera Noche,single,8,53,0.013695,0.011822,0.019168,0.010096
+La Primera Noche,single,9,16,0.01369,0.017903,0.01639,0.006776
+La Primera Noche,single,10,50,0.01368,0.01191,0.015528,0.013602
+La Primera Noche,pale,1,16-47,0.003572,,,
+La Primera Noche,pale,2,18-43,0.003412,,,
+La Primera Noche,pale,3,02-85,0.003309,,,
+La Primera Noche,pale,4,42-67,0.002971,,,
+La Primera Noche,pale,5,81-91,0.002655,,,
+La Primera Noche,pale,6,19-71,0.002612,,,
+La Primera Noche,pale,7,61-83,0.002593,,,
+La Primera Noche,pale,8,05-75,0.002588,,,
+La Primera Noche,pale,9,68-88,0.002547,,,
+La Primera Noche,pale,10,42-82,0.002433,,,
+La Primera Dia,single,1,64,0.020184,0.026724,0.0208,0.013028
+La Primera Dia,single,2,61,0.01689,0.02161,0.017179,0.011883
+La Primera Dia,single,3,14,0.014661,0.016238,0.01219,0.015555
+La Primera Dia,single,4,16,0.014413,0.015965,0.009685,0.017589
+La Primera Dia,single,5,6,0.014112,0.009049,0.019231,0.014057
+La Primera Dia,single,6,4,0.014041,0.019654,0.01329,0.00918
+La Primera Dia,single,7,83,0.013988,0.011658,0.014669,0.015637
+La Primera Dia,single,8,22,0.013714,0.015436,0.014831,0.010875
+La Primera Dia,single,9,17,0.013495,0.019134,0.016772,0.004579
+La Primera Dia,single,10,90,0.013367,0.009916,0.017626,0.01256
+La Primera Dia,pale,1,01-64,0.003869,,,
+La Primera Dia,pale,2,38-99,0.003396,,,
+La Primera Dia,pale,3,42-47,0.002835,,,
+La Primera Dia,pale,4,16-98,0.002787,,,
+La Primera Dia,pale,5,39-44,0.002631,,,
+La Primera Dia,pale,6,06-69,0.002591,,,
+La Primera Dia,pale,7,08-18,0.002516,,,
+La Primera Dia,pale,8,44-65,0.00249,,,
+La Primera Dia,pale,9,25-56,0.002412,,,
+La Primera Dia,pale,10,14-62,0.00231,,,
+Gana Mas,single,1,80,0.030919,0.0,0.052637,0.040121
+Gana Mas,single,2,7,0.030143,0.038938,0.039998,0.011493
+Gana Mas,single,3,25,0.026313,0.03318,0.011122,0.034638
+Gana Mas,single,4,93,0.025142,0.051934,0.023492,0.0
+Gana Mas,single,5,51,0.024965,0.039434,0.012478,0.022982
+Gana Mas,single,6,19,0.024806,0.012208,0.033824,0.028386
+Gana Mas,single,7,78,0.022506,0.0,0.010821,0.056697
+Gana Mas,single,8,39,0.0213,0.011976,0.040401,0.011525
+Gana Mas,single,9,44,0.021113,0.051877,0.011462,0.0
+Gana Mas,single,10,83,0.020621,0.010792,0.012241,0.038831
+Gana Mas,pale,1,07-79,0.013423,,,
+Gana Mas,pale,2,39-43,0.009866,,,
+Gana Mas,pale,3,39-78,0.009866,,,
+Gana Mas,pale,4,43-78,0.009866,,,
+Gana Mas,pale,5,17-38,0.009839,,,
+Gana Mas,pale,6,17-64,0.009839,,,
+Gana Mas,pale,7,38-64,0.009839,,,
+Gana Mas,pale,8,35-51,0.009812,,,
+Gana Mas,pale,9,35-77,0.009812,,,
+Gana Mas,pale,10,51-77,0.009812,,,
+Anguila 9:00 PM,single,1,76,0.019741,0.017757,0.022442,0.019025
+Anguila 9:00 PM,single,2,52,0.018908,0.021249,0.021794,0.01368
+Anguila 9:00 PM,single,3,63,0.018596,0.023634,0.019747,0.012408
+Anguila 9:00 PM,single,4,50,0.016302,0.020528,0.014796,0.013582
+Anguila 9:00 PM,single,5,69,0.015298,0.009258,0.020512,0.016123
+Anguila 9:00 PM,single,6,48,0.014862,0.019362,0.015287,0.009938
+Anguila 9:00 PM,single,7,18,0.01471,0.007269,0.021671,0.015191
+Anguila 9:00 PM,single,8,28,0.014512,0.011432,0.016034,0.01607
+Anguila 9:00 PM,single,9,25,0.01424,0.022783,0.008292,0.011644
+Anguila 9:00 PM,single,10,83,0.0141,0.012307,0.013948,0.016044
+Anguila 9:00 PM,pale,1,25-91,0.002943,,,
+Anguila 9:00 PM,pale,2,50-96,0.002894,,,
+Anguila 9:00 PM,pale,3,76-79,0.002739,,,
+Anguila 9:00 PM,pale,4,86-99,0.0027,,,
+Anguila 9:00 PM,pale,5,12-50,0.002676,,,
+Anguila 9:00 PM,pale,6,09-69,0.002658,,,
+Anguila 9:00 PM,pale,7,52-80,0.002515,,,
+Anguila 9:00 PM,pale,8,17-75,0.002449,,,
+Anguila 9:00 PM,pale,9,09-20,0.002385,,,
+Anguila 9:00 PM,pale,10,16-91,0.002365,,,
+Anguila 6:00 PM,single,1,87,0.016114,0.007988,0.023879,0.016476
+Anguila 6:00 PM,single,2,85,0.015886,0.009042,0.023441,0.015175
+Anguila 6:00 PM,single,3,3,0.015818,0.014029,0.022166,0.011258
+Anguila 6:00 PM,single,4,57,0.015764,0.025761,0.008293,0.013239
+Anguila 6:00 PM,single,5,78,0.01565,0.016814,0.020728,0.009409
+Anguila 6:00 PM,single,6,56,0.014928,0.010392,0.014479,0.019913
+Anguila 6:00 PM,single,7,94,0.014719,0.018485,0.011772,0.013901
+Anguila 6:00 PM,single,8,66,0.014507,0.01345,0.012535,0.017535
+Anguila 6:00 PM,single,9,46,0.014389,0.010936,0.010581,0.02165
+Anguila 6:00 PM,single,10,59,0.014039,0.00883,0.010115,0.023171
+Anguila 6:00 PM,pale,1,62-79,0.003725,,,
+Anguila 6:00 PM,pale,2,22-34,0.003179,,,
+Anguila 6:00 PM,pale,3,48-78,0.003065,,,
+Anguila 6:00 PM,pale,4,01-92,0.00301,,,
+Anguila 6:00 PM,pale,5,39-76,0.002887,,,
+Anguila 6:00 PM,pale,6,04-98,0.00276,,,
+Anguila 6:00 PM,pale,7,03-75,0.002744,,,
+Anguila 6:00 PM,pale,8,57-85,0.002719,,,
+Anguila 6:00 PM,pale,9,63-65,0.002614,,,
+Anguila 6:00 PM,pale,10,01-45,0.0025,,,
+Anguila 1:00 PM,single,1,65,0.019633,0.02242,0.015697,0.020781
+Anguila 1:00 PM,single,2,94,0.01704,0.019796,0.019766,0.011557
+Anguila 1:00 PM,single,3,39,0.016846,0.020658,0.016459,0.013421
+Anguila 1:00 PM,single,4,73,0.01576,0.014306,0.015982,0.016993
+Anguila 1:00 PM,single,5,63,0.014412,0.010882,0.018261,0.014092
+Anguila 1:00 PM,single,6,60,0.014189,0.010844,0.022163,0.009559
+Anguila 1:00 PM,single,7,52,0.014169,0.00831,0.018339,0.015857
+Anguila 1:00 PM,single,8,83,0.014055,0.021718,0.008981,0.011465
+Anguila 1:00 PM,single,9,21,0.013818,0.018153,0.013734,0.009565
+Anguila 1:00 PM,single,10,28,0.013778,0.014924,0.005151,0.021258
+Anguila 1:00 PM,pale,1,21-30,0.003872,,,
+Anguila 1:00 PM,pale,2,73-89,0.003046,,,
+Anguila 1:00 PM,pale,3,49-55,0.003002,,,
+Anguila 1:00 PM,pale,4,70-89,0.002927,,,
+Anguila 1:00 PM,pale,5,18-52,0.002908,,,
+Anguila 1:00 PM,pale,6,39-78,0.002848,,,
+Anguila 1:00 PM,pale,7,35-80,0.002635,,,
+Anguila 1:00 PM,pale,8,04-68,0.002599,,,
+Anguila 1:00 PM,pale,9,44-48,0.002591,,,
+Anguila 1:00 PM,pale,10,28-78,0.002561,,,
+Anguila 10:00 AM,single,1,65,0.016126,0.030234,0.010675,0.007468
+Anguila 10:00 AM,single,2,61,0.016034,0.020383,0.013633,0.014086
+Anguila 10:00 AM,single,3,48,0.015981,0.014321,0.018353,0.015268
+Anguila 10:00 AM,single,4,83,0.015253,0.012803,0.016949,0.016008
+Anguila 10:00 AM,single,5,35,0.015196,0.018408,0.012266,0.014914
+Anguila 10:00 AM,single,6,77,0.014455,0.013065,0.026628,0.003674
+Anguila 10:00 AM,single,7,76,0.01409,0.016017,0.010269,0.015984
+Anguila 10:00 AM,single,8,68,0.013941,0.017358,0.015757,0.008709
+Anguila 10:00 AM,single,9,8,0.013871,0.003121,0.022922,0.01557
+Anguila 10:00 AM,single,10,27,0.013794,0.008213,0.007696,0.025472
+Anguila 10:00 AM,pale,1,61-64,0.003112,,,
+Anguila 10:00 AM,pale,2,09-61,0.00308,,,
+Anguila 10:00 AM,pale,3,61-78,0.003053,,,
+Anguila 10:00 AM,pale,4,68-99,0.002962,,,
+Anguila 10:00 AM,pale,5,09-78,0.00272,,,
+Anguila 10:00 AM,pale,6,64-85,0.002584,,,
+Anguila 10:00 AM,pale,7,43-90,0.002542,,,
+Anguila 10:00 AM,pale,8,28-79,0.002509,,,
+Anguila 10:00 AM,pale,9,69-70,0.002498,,,
+Anguila 10:00 AM,pale,10,52-74,0.00249,,,
