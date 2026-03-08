@@ -7,3 +7,4 @@ set +a
 python3 nba_collect.py
 python3 nba_model.py
 python3 nba_picks_today.py
+python3 parlay_builder.py
