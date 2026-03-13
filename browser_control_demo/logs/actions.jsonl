@@ -1,0 +1,13 @@
+{"ts":"2026-03-13T03:03:35.010Z","step":"open_site","url":"https://www.saucedemo.com/"}
+{"ts":"2026-03-13T03:03:35.507Z","step":"screenshot","path":"/home/ander/.openclaw/workspace/browser_control_demo/artifacts/1773371015311_login_page.png"}
+{"ts":"2026-03-13T03:03:35.604Z","step":"login_fill"}
+{"ts":"2026-03-13T03:03:35.714Z","step":"login_success"}
+{"ts":"2026-03-13T03:03:35.844Z","step":"screenshot","path":"/home/ander/.openclaw/workspace/browser_control_demo/artifacts/1773371015715_inventory.png"}
+{"ts":"2026-03-13T03:03:35.881Z","step":"add_to_cart","index":0}
+{"ts":"2026-03-13T03:03:35.914Z","step":"add_to_cart","index":1}
+{"ts":"2026-03-13T03:03:36.003Z","step":"screenshot","path":"/home/ander/.openclaw/workspace/browser_control_demo/artifacts/1773371015914_after_add.png"}
+{"ts":"2026-03-13T03:03:36.044Z","step":"open_cart"}
+{"ts":"2026-03-13T03:03:36.109Z","step":"screenshot","path":"/home/ander/.openclaw/workspace/browser_control_demo/artifacts/1773371016045_cart_view.png"}
+{"ts":"2026-03-13T03:03:36.152Z","step":"remove_from_cart","index":0}
+{"ts":"2026-03-13T03:03:36.205Z","step":"screenshot","path":"/home/ander/.openclaw/workspace/browser_control_demo/artifacts/1773371016152_after_remove.png"}
+{"ts":"2026-03-13T03:03:36.206Z","step":"demo_complete"}
