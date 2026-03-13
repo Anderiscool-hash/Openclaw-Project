@@ -1,11 +1,5 @@
 [
   {
-    "id": "ig-limemeloball-2026-03-09-1400",
-    "text": "Reminder: check the saved Instagram link: https://www.instagram.com/limemeloball?igsh=MTJuZ3doam1ncG5hNw==",
-    "due": "2026-03-09T14:00:00-04:00",
-    "sent": false
-  },
-  {
     "id": "calc-test-2026-03-09-0730",
     "text": "<@437765127257980929> Calc test today at 9:55 AM. Start prep now.",
     "due": "2026-03-09T07:30:00-04:00",
@@ -21,6 +15,366 @@
     "id": "calc-test-2026-03-09-0940",
     "text": "<@437765127257980929> Final reminder: Calc test in 15 minutes.",
     "due": "2026-03-09T09:40:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "ig-limemeloball-2026-03-09-1400",
+    "text": "Reminder: check the saved Instagram link: https://www.instagram.com/limemeloball?igsh=MTJuZ3doam1ncG5hNw==",
+    "due": "2026-03-09T14:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-notes-setup-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Film Class \u2014 Film Notes setup + Film Terms + Feedback Reflection is due tomorrow (Mar 15 11:59 PM).",
+    "due": "2026-03-14T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-notes-setup-td",
+    "text": "<@437765127257980929> Due today: Film Class \u2014 Film Notes setup + Film Terms + Feedback Reflection (11:59 PM).",
+    "due": "2026-03-15T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "csci271-midterm-t1",
+    "text": "<@437765127257980929> 24-hour reminder: CSCI 271 (C++) \u2014 Midterm Exam is due tomorrow (Mar 16 09:55 AM).",
+    "due": "2026-03-15T09:55:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "csci271-midterm-td",
+    "text": "<@437765127257980929> Due today: CSCI 271 (C++) \u2014 Midterm Exam (09:55 AM).",
+    "due": "2026-03-16T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "wednesday-recurring-2026-03-18",
+    "text": "<@437765127257980929> Wednesday reminder: Weekly class task/check-in (Unspecified Wednesday Class).",
+    "due": "2026-03-18T10:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-notes-t7",
+    "text": "<@437765127257980929> 7-day heads up: Film Class \u2014 Film Notes due Mar 29 11:59 PM.",
+    "due": "2026-03-22T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "wednesday-recurring-2026-03-25",
+    "text": "<@437765127257980929> Wednesday reminder: Weekly class task/check-in (Unspecified Wednesday Class).",
+    "due": "2026-03-25T10:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-notes-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Film Class \u2014 Film Notes is due tomorrow (Mar 29 11:59 PM).",
+    "due": "2026-03-28T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-notes-td",
+    "text": "<@437765127257980929> Due today: Film Class \u2014 Film Notes (11:59 PM).",
+    "due": "2026-03-29T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "wednesday-recurring-2026-04-01",
+    "text": "<@437765127257980929> Wednesday reminder: Weekly class task/check-in (Unspecified Wednesday Class).",
+    "due": "2026-04-01T10:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-midterm-t7",
+    "text": "<@437765127257980929> 7-day heads up: Latinx \u2014 Midterm: Engaging with Latinx Communities Perspectives due Apr 12 11:59 PM.",
+    "due": "2026-04-05T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-drop-w-t7",
+    "text": "<@437765127257980929> 7-day heads up: Film Class \u2014 Last day to drop for W due Apr 13 05:00 PM.",
+    "due": "2026-04-06T17:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "csci271-quiz2-t7",
+    "text": "<@437765127257980929> 7-day heads up: CSCI 271 (C++) \u2014 Quiz 2 due Apr 15 09:55 AM.",
+    "due": "2026-04-08T09:55:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "wednesday-recurring-2026-04-08",
+    "text": "<@437765127257980929> Wednesday reminder: Weekly class task/check-in (Unspecified Wednesday Class).",
+    "due": "2026-04-08T10:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-midterm-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Latinx \u2014 Midterm: Engaging with Latinx Communities Perspectives is due tomorrow (Apr 12 11:59 PM).",
+    "due": "2026-04-11T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-midterm-td",
+    "text": "<@437765127257980929> Due today: Latinx \u2014 Midterm: Engaging with Latinx Communities Perspectives (11:59 PM).",
+    "due": "2026-04-12T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-drop-w-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Film Class \u2014 Last day to drop for W is due tomorrow (Apr 13 05:00 PM).",
+    "due": "2026-04-12T17:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-reviews-t7",
+    "text": "<@437765127257980929> 7-day heads up: Film Class \u2014 Film Reviews due Apr 19 11:59 PM.",
+    "due": "2026-04-12T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-drop-w-td",
+    "text": "<@437765127257980929> Due today: Film Class \u2014 Last day to drop for W (05:00 PM).",
+    "due": "2026-04-13T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "csci271-quiz2-t1",
+    "text": "<@437765127257980929> 24-hour reminder: CSCI 271 (C++) \u2014 Quiz 2 is due tomorrow (Apr 15 09:55 AM).",
+    "due": "2026-04-14T09:55:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "csci271-quiz2-td",
+    "text": "<@437765127257980929> Due today: CSCI 271 (C++) \u2014 Quiz 2 (09:55 AM).",
+    "due": "2026-04-15T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "wednesday-recurring-2026-04-15",
+    "text": "<@437765127257980929> Wednesday reminder: Weekly class task/check-in (Unspecified Wednesday Class).",
+    "due": "2026-04-15T10:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-reviews-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Film Class \u2014 Film Reviews is due tomorrow (Apr 19 11:59 PM).",
+    "due": "2026-04-18T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-reviews-td",
+    "text": "<@437765127257980929> Due today: Film Class \u2014 Film Reviews (11:59 PM).",
+    "due": "2026-04-19T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "wednesday-recurring-2026-04-22",
+    "text": "<@437765127257980929> Wednesday reminder: Weekly class task/check-in (Unspecified Wednesday Class).",
+    "due": "2026-04-22T10:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-eportfolio-checklist-t7",
+    "text": "<@437765127257980929> 7-day heads up: Film Class \u2014 E-Portfolio Checklist + Reflective Letter due May 03 11:59 PM.",
+    "due": "2026-04-26T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "wednesday-recurring-2026-04-29",
+    "text": "<@437765127257980929> Wednesday reminder: Weekly class task/check-in (Unspecified Wednesday Class).",
+    "due": "2026-04-29T10:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-grace1-t7",
+    "text": "<@437765127257980929> 7-day heads up: Film Class \u2014 Grace period ends (for May 3 items) due May 06 11:59 PM.",
+    "due": "2026-04-29T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-eportfolio-checklist-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Film Class \u2014 E-Portfolio Checklist + Reflective Letter is due tomorrow (May 03 11:59 PM).",
+    "due": "2026-05-02T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-eportfolio-checklist-td",
+    "text": "<@437765127257980929> Due today: Film Class \u2014 E-Portfolio Checklist + Reflective Letter (11:59 PM).",
+    "due": "2026-05-03T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-final-eportfolio-t7",
+    "text": "<@437765127257980929> 7-day heads up: Film Class \u2014 Final E-Portfolio due due May 10 11:59 PM.",
+    "due": "2026-05-03T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-grace1-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Film Class \u2014 Grace period ends (for May 3 items) is due tomorrow (May 06 11:59 PM).",
+    "due": "2026-05-05T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-grace1-td",
+    "text": "<@437765127257980929> Due today: Film Class \u2014 Grace period ends (for May 3 items) (11:59 PM).",
+    "due": "2026-05-06T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "wednesday-recurring-2026-05-06",
+    "text": "<@437765127257980929> Wednesday reminder: Weekly class task/check-in (Unspecified Wednesday Class).",
+    "due": "2026-05-06T10:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-grace2-t7",
+    "text": "<@437765127257980929> 7-day heads up: Film Class \u2014 Grace period ends (for Final E-Portfolio) due May 13 11:59 PM.",
+    "due": "2026-05-06T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-final-eportfolio-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Film Class \u2014 Final E-Portfolio due is due tomorrow (May 10 11:59 PM).",
+    "due": "2026-05-09T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-final-eportfolio-td",
+    "text": "<@437765127257980929> Due today: Film Class \u2014 Final E-Portfolio due (11:59 PM).",
+    "due": "2026-05-10T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "csci271-presentation-t7",
+    "text": "<@437765127257980929> 7-day heads up: CSCI 271 (C++) \u2014 Project Presentation due May 18 09:55 AM.",
+    "due": "2026-05-11T09:55:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-last-class-t7",
+    "text": "<@437765127257980929> 7-day heads up: Film Class \u2014 Last day of class meetings/office hours due May 19 05:00 PM.",
+    "due": "2026-05-12T17:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-grace2-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Film Class \u2014 Grace period ends (for Final E-Portfolio) is due tomorrow (May 13 11:59 PM).",
+    "due": "2026-05-12T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-grace2-td",
+    "text": "<@437765127257980929> Due today: Film Class \u2014 Grace period ends (for Final E-Portfolio) (11:59 PM).",
+    "due": "2026-05-13T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "csci271-final-t7",
+    "text": "<@437765127257980929> 7-day heads up: CSCI 271 (C++) \u2014 Final Exam due May 20 09:55 AM.",
+    "due": "2026-05-13T09:55:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "wednesday-recurring-2026-05-13",
+    "text": "<@437765127257980929> Wednesday reminder: Weekly class task/check-in (Unspecified Wednesday Class).",
+    "due": "2026-05-13T10:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-group-visual-t7",
+    "text": "<@437765127257980929> 7-day heads up: Latinx \u2014 Group Podcast Project (Visual) due May 22 11:59 PM.",
+    "due": "2026-05-15T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-group-reflection-t7",
+    "text": "<@437765127257980929> 7-day heads up: Latinx \u2014 Group Podcast Project (Reflection) due May 22 11:59 PM.",
+    "due": "2026-05-15T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "csci271-presentation-t1",
+    "text": "<@437765127257980929> 24-hour reminder: CSCI 271 (C++) \u2014 Project Presentation is due tomorrow (May 18 09:55 AM).",
+    "due": "2026-05-17T09:55:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "csci271-presentation-td",
+    "text": "<@437765127257980929> Due today: CSCI 271 (C++) \u2014 Project Presentation (09:55 AM).",
+    "due": "2026-05-18T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-last-class-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Film Class \u2014 Last day of class meetings/office hours is due tomorrow (May 19 05:00 PM).",
+    "due": "2026-05-18T17:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "film-last-class-td",
+    "text": "<@437765127257980929> Due today: Film Class \u2014 Last day of class meetings/office hours (05:00 PM).",
+    "due": "2026-05-19T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "csci271-final-t1",
+    "text": "<@437765127257980929> 24-hour reminder: CSCI 271 (C++) \u2014 Final Exam is due tomorrow (May 20 09:55 AM).",
+    "due": "2026-05-19T09:55:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "csci271-final-td",
+    "text": "<@437765127257980929> Due today: CSCI 271 (C++) \u2014 Final Exam (09:55 AM).",
+    "due": "2026-05-20T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "wednesday-recurring-2026-05-20",
+    "text": "<@437765127257980929> Wednesday reminder: Weekly class task/check-in (Unspecified Wednesday Class).",
+    "due": "2026-05-20T10:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-survey-t7",
+    "text": "<@437765127257980929> 7-day heads up: Latinx \u2014 End-of-semester survey due May 27 11:59 PM.",
+    "due": "2026-05-20T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-group-visual-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Latinx \u2014 Group Podcast Project (Visual) is due tomorrow (May 22 11:59 PM).",
+    "due": "2026-05-21T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-group-reflection-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Latinx \u2014 Group Podcast Project (Reflection) is due tomorrow (May 22 11:59 PM).",
+    "due": "2026-05-21T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-group-visual-td",
+    "text": "<@437765127257980929> Due today: Latinx \u2014 Group Podcast Project (Visual) (11:59 PM).",
+    "due": "2026-05-22T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-group-reflection-td",
+    "text": "<@437765127257980929> Due today: Latinx \u2014 Group Podcast Project (Reflection) (11:59 PM).",
+    "due": "2026-05-22T09:00:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-survey-t1",
+    "text": "<@437765127257980929> 24-hour reminder: Latinx \u2014 End-of-semester survey is due tomorrow (May 27 11:59 PM).",
+    "due": "2026-05-26T23:59:00-04:00",
+    "sent": false
+  },
+  {
+    "id": "latinx-survey-td",
+    "text": "<@437765127257980929> Due today: Latinx \u2014 End-of-semester survey (11:59 PM).",
+    "due": "2026-05-27T09:00:00-04:00",
     "sent": false
   }
 ]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "csci271-midterm",
+    "course": "CSCI 271 (C++)",
+    "title": "Midterm Exam",
+    "due": "2026-03-16T09:55:00-04:00",
+    "type": "exam"
+  },
+  {
+    "id": "film-notes-setup",
+    "course": "Film Class",
+    "title": "Film Notes setup + Film Terms + Feedback Reflection",
+    "due": "2026-03-15T23:59:00-04:00",
+    "type": "assignment"
+  },
+  {
+    "id": "film-notes",
+    "course": "Film Class",
+    "title": "Film Notes",
+    "due": "2026-03-29T23:59:00-04:00",
+    "type": "assignment"
+  },
+  {
+    "id": "latinx-midterm",
+    "course": "Latinx",
+    "title": "Midterm: Engaging with Latinx Communities Perspectives",
+    "due": "2026-04-12T23:59:00-04:00",
+    "type": "exam"
+  },
+  {
+    "id": "film-drop-w",
+    "course": "Film Class",
+    "title": "Last day to drop for W",
+    "due": "2026-04-13T17:00:00-04:00",
+    "type": "milestone"
+  },
+  {
+    "id": "csci271-quiz2",
+    "course": "CSCI 271 (C++)",
+    "title": "Quiz 2",
+    "due": "2026-04-15T09:55:00-04:00",
+    "type": "quiz"
+  },
+  {
+    "id": "film-reviews",
+    "course": "Film Class",
+    "title": "Film Reviews",
+    "due": "2026-04-19T23:59:00-04:00",
+    "type": "assignment"
+  },
+  {
+    "id": "film-eportfolio-checklist",
+    "course": "Film Class",
+    "title": "E-Portfolio Checklist + Reflective Letter",
+    "due": "2026-05-03T23:59:00-04:00",
+    "type": "assignment"
+  },
+  {
+    "id": "film-grace1",
+    "course": "Film Class",
+    "title": "Grace period ends (for May 3 items)",
+    "due": "2026-05-06T23:59:00-04:00",
+    "type": "milestone"
+  },
+  {
+    "id": "film-final-eportfolio",
+    "course": "Film Class",
+    "title": "Final E-Portfolio due",
+    "due": "2026-05-10T23:59:00-04:00",
+    "type": "final"
+  },
+  {
+    "id": "film-grace2",
+    "course": "Film Class",
+    "title": "Grace period ends (for Final E-Portfolio)",
+    "due": "2026-05-13T23:59:00-04:00",
+    "type": "milestone"
+  },
+  {
+    "id": "film-last-class",
+    "course": "Film Class",
+    "title": "Last day of class meetings/office hours",
+    "due": "2026-05-19T17:00:00-04:00",
+    "type": "milestone"
+  },
+  {
+    "id": "csci271-presentation",
+    "course": "CSCI 271 (C++)",
+    "title": "Project Presentation",
+    "due": "2026-05-18T09:55:00-04:00",
+    "type": "project"
+  },
+  {
+    "id": "csci271-final",
+    "course": "CSCI 271 (C++)",
+    "title": "Final Exam",
+    "due": "2026-05-20T09:55:00-04:00",
+    "type": "final"
+  },
+  {
+    "id": "latinx-group-visual",
+    "course": "Latinx",
+    "title": "Group Podcast Project (Visual)",
+    "due": "2026-05-22T23:59:00-04:00",
+    "type": "project"
+  },
+  {
+    "id": "latinx-group-reflection",
+    "course": "Latinx",
+    "title": "Group Podcast Project (Reflection)",
+    "due": "2026-05-22T23:59:00-04:00",
+    "type": "project"
+  },
+  {
+    "id": "latinx-survey",
+    "course": "Latinx",
+    "title": "End-of-semester survey",
+    "due": "2026-05-27T23:59:00-04:00",
+    "type": "milestone"
+  },
+  {
+    "id": "wednesday-recurring",
+    "course": "Unspecified Wednesday Class",
+    "title": "Weekly class task/check-in",
+    "due": "2026-03-18T10:00:00-04:00",
+    "type": "weekly"
+  }
+]
