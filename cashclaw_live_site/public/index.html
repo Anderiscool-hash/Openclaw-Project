@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CashClaw Live Ops</title>
+  <style>
+    body{font-family:system-ui;background:#0b1020;color:#e8ecff;margin:0}
+    .wrap{max-width:1100px;margin:0 auto;padding:20px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px}
+    .card{background:#121933;border:1px solid #27315f;border-radius:12px;padding:12px}
+    .n{font-size:28px;font-weight:700}
+    table{width:100%;border-collapse:collapse}
+    th,td{border-bottom:1px solid #27315f;padding:8px;text-align:left;font-size:14px}
+    .muted{opacity:.75}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>CashClaw Live Ops Dashboard</h1>
+    <p class="muted">Auto-refresh every 10s</p>
+    <div class="grid">
+      <div class="card"><div class="n" id="total">-</div><div>Total Jobs</div></div>
+      <div class="card"><div class="n" id="applied">-</div><div>Applied/Created</div></div>
+      <div class="card"><div class="n" id="progress">-</div><div>In Progress</div></div>
+      <div class="card"><div class="n" id="completed">-</div><div>Completed</div></div>
+      <div class="card"><div class="n" id="unpaid">-</div><div>Unpaid</div></div>
+      <div class="card"><div class="n" id="value">-</div><div>Total Pipeline $</div></div>
+      <div class="card"><div class="n" id="earned">-</div><div>Total Earned $</div></div>
+    </div>
+
+    <div class="card" style="margin-top:14px">
+      <h3>Recent Jobs</h3>
+      <table>
+        <thead><tr><th>ID</th><th>Name</th><th>Status</th><th>Payment</th><th>Service</th><th>Price</th><th>Client</th><th>Updated</th></tr></thead>
+        <tbody id="rows"><tr><td colspan="8">Loading…</td></tr></tbody>
+      </table>
+      <p class="muted" id="ts">Last updated: -</p>
+    </div>
+  </div>
+  <script>
+    const set=(id,v)=>document.getElementById(id).textContent=v;
+    async function load(){
+      const r=await fetch('/api/metrics?ts='+Date.now());
+      const d=await r.json();
+      const s=d.summary||{};
+      set('total',s.totalMissions??0);
+      set('applied',s.appliedMissions??0);
+      set('progress',s.inProgressMissions??0);
+      set('completed',s.completedMissions??0);
+      set('unpaid',s.unpaidMissions??0);
+      set('value','$'+Number(s.totalValueUsd||0).toFixed(2));
+      set('earned','$'+Number(s.totalEarnedUsd||0).toFixed(2));
+      document.getElementById('ts').textContent='Last updated: '+(d.generatedAt||'-');
+      const rows=(d.missions||[]).map(m=>`<tr><td>${(m.id||'').slice(0,8)}</td><td>${m.name||''}</td><td>${m.status||''}</td><td>${m.payment||''}</td><td>${m.service||''}</td><td>$${Number(m.priceUsd||0).toFixed(2)}</td><td>${m.client||''}</td><td>${m.updatedAt||''}</td></tr>`).join('');
+      document.getElementById('rows').innerHTML=rows||'<tr><td colspan="8">No jobs yet</td></tr>';
+    }
+    load(); setInterval(load,10000);
+  </script>
+</body>
+</html>
