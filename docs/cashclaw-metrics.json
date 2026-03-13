@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-03-13T14:23:28.815Z",
+  "summary": {
+    "totalMissions": 1,
+    "totalValueUsd": 9,
+    "totalEarnedUsd": 0,
+    "unpaidMissions": 1,
+    "paidMissions": 0,
+    "appliedMissions": 1,
+    "inProgressMissions": 0,
+    "completedMissions": 0,
+    "cancelledMissions": 0
+  },
+  "recentMissions": [
+    {
+      "id": "f9a4e3bc-49d4-48e7-a3cd-79af7cbc8de8",
+      "name": "Basic SEO Audit",
+      "service": "seo-audit",
+      "status": "created",
+      "priceUsd": 9,
+      "client": "Smoke Test",
+      "createdAt": "2026-03-13T14:17:09.640Z"
+    }
+  ]
+}

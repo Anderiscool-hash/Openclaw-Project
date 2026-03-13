@@ -11,6 +11,12 @@
     h2{margin-top:30px}
     .card{background:#121933;border:1px solid #27315f;border-radius:14px;padding:16px;margin:12px 0}
     .pill{display:inline-block;background:#1d2a5f;padding:6px 10px;border-radius:999px;margin:4px 6px 0 0;font-size:13px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px}
+    .kpi{background:#0f1733;border:1px solid #2a3970;border-radius:10px;padding:10px}
+    .kpi .n{font-size:24px;font-weight:700}
+    .muted{opacity:.75;font-size:12px}
+    table{width:100%;border-collapse:collapse;font-size:14px}
+    th,td{padding:8px;border-bottom:1px solid #24325f;text-align:left}
     a{color:#9ec2ff}
   </style>
 </head>
@@ -33,8 +39,61 @@
     <div class="card"><b>Lottery Analytics Stack</b><br/>Historical scrape, probability models, ticket generation, and live result tracking.</div>
     <div class="card"><b>Sports Odds Toolkit</b><br/>Odds collection, edge scoring, pick generation, and parlay builder outputs.</div>
 
+    <h2>CashClaw Ops Dashboard</h2>
+    <div class="card">
+      <div class="grid" id="kpis">
+        <div class="kpi"><div class="n" id="k_total">-</div><div>Total Jobs</div></div>
+        <div class="kpi"><div class="n" id="k_applied">-</div><div>Applied / Created</div></div>
+        <div class="kpi"><div class="n" id="k_progress">-</div><div>In Progress</div></div>
+        <div class="kpi"><div class="n" id="k_completed">-</div><div>Completed</div></div>
+        <div class="kpi"><div class="n" id="k_unpaid">-</div><div>Unpaid</div></div>
+        <div class="kpi"><div class="n" id="k_value">-</div><div>Total Pipeline $</div></div>
+      </div>
+      <p class="muted" id="generatedAt">Last updated: -</p>
+    </div>
+
+    <div class="card">
+      <b>Recent Jobs</b>
+      <table>
+        <thead><tr><th>ID</th><th>Job</th><th>Status</th><th>Service</th><th>Price</th><th>Client</th></tr></thead>
+        <tbody id="jobs_rows"><tr><td colspan="6">Loading...</td></tr></tbody>
+      </table>
+      <p class="muted">Refresh source file by running:<br/><code>node /home/ander/.openclaw/workspace/cashclaw/export_metrics.js</code></p>
+    </div>
+
     <h2>Contact</h2>
     <div class="card">Owner: Ander<br/>Status: Active build/demo environment</div>
   </div>
+
+  <script>
+    async function loadMetrics(){
+      try{
+        const res=await fetch('./cashclaw-metrics.json?ts='+Date.now());
+        const data=await res.json();
+        const s=data.summary||{};
+        const set=(id,val)=>document.getElementById(id).textContent=val;
+        set('k_total', s.totalMissions ?? 0);
+        set('k_applied', s.appliedMissions ?? 0);
+        set('k_progress', s.inProgressMissions ?? 0);
+        set('k_completed', s.completedMissions ?? 0);
+        set('k_unpaid', s.unpaidMissions ?? 0);
+        set('k_value', '$'+Number(s.totalValueUsd||0).toFixed(2));
+        document.getElementById('generatedAt').textContent='Last updated: '+(data.generatedAt || '-');
+
+        const rows=(data.recentMissions||[]).map(m=>`<tr>
+          <td>${(m.id||'').slice(0,8)}</td>
+          <td>${m.name||''}</td>
+          <td>${m.status||''}</td>
+          <td>${m.service||''}</td>
+          <td>$${Number(m.priceUsd||0).toFixed(2)}</td>
+          <td>${m.client||''}</td>
+        </tr>`).join('');
+        document.getElementById('jobs_rows').innerHTML = rows || '<tr><td colspan="6">No jobs yet</td></tr>';
+      }catch(e){
+        document.getElementById('jobs_rows').innerHTML='<tr><td colspan="6">Could not load metrics file</td></tr>';
+      }
+    }
+    loadMetrics();
+  </script>
 </body>
 </html>
